@@ -1,7 +1,7 @@
 /*  your CSS code here. If applicable */
 #yellow{
 	background-color: yellow;
-	/*border-width:1px;*/
+	border-width:1px;
 	 border-style: solid;
   border-color: green;
 }
@@ -9,12 +9,12 @@
 	 background-color: red;
 	 border-style: solid;
      border-color: black;
-
+     border-width:1px;
 	
 }
 #green{
 	background-color:green;
 	 border-style: solid;
      border-color:yellow;
-
+    border-width:1px;
 }
